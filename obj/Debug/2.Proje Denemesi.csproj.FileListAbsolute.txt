@@ -1,0 +1,7 @@
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\obj\Debug\2.Proje Denemesi.csprojAssemblyReference.cache
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\obj\Debug\2.Proje Denemesi.csproj.CoreCompileInputs.cache
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\bin\Debug\2.Proje Denemesi.exe.config
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\bin\Debug\2.Proje Denemesi.exe
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\bin\Debug\2.Proje Denemesi.pdb
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\obj\Debug\2.Proje Denemesi.exe
+C:\Users\compaq\source\repos\2.Proje Denemesi\2.Proje Denemesi\obj\Debug\2.Proje Denemesi.pdb
